@@ -1,0 +1,8 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Large generated sentiment dataset
+DataAnalytics-L1-SentimentAnalysis/outputs/cleaned_reviews.csv

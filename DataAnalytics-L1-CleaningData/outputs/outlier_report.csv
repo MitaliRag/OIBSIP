@@ -1,0 +1,6 @@
+Column,Lower_Bound,Upper_Bound,Outlier_Count
+Transaction ID,-498.5,1499.5,0
+Age,-7.0,89.0,0
+Quantity,-3.5,8.5,0
+Price per Unit,-375.0,705.0,0
+Total Amount,-1200.0,2160.0,0

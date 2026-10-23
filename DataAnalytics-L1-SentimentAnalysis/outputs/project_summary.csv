@@ -1,0 +1,7 @@
+Item,Value
+Original rows,50000
+Rows after cleaning,49582
+Training rows,39665
+Testing rows,9917
+Unique sentiments,"negative, positive"
+TF-IDF features,20000

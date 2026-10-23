@@ -1,0 +1,10 @@
+Column,Data_Type,Missing_Values,Unique_Values
+Transaction ID,int64,0,1000
+Date,object,0,345
+Customer ID,object,0,1000
+Gender,object,0,2
+Age,int64,0,47
+Product Category,object,0,3
+Quantity,int64,0,4
+Price per Unit,int64,0,5
+Total Amount,int64,0,18

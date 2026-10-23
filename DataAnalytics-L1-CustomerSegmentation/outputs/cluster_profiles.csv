@@ -1,0 +1,5 @@
+Cluster,Customers,AvgRecency,AvgFrequency,AvgMonetary,TotalRevenue
+0,306,223.31,1.0,1022.22,312800
+1,160,51.54,1.0,90.44,14470
+2,87,34.74,1.0,1022.99,89000
+3,447,231.28,1.0,88.88,39730

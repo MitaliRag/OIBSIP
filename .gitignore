@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+__pycache__/
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+=======
 # Python cache and virtual environments
 __pycache__/
 *.py[cod]
@@ -6,3 +13,8 @@ venv/
 
 # Large generated sentiment dataset
 DataAnalytics-L1-SentimentAnalysis/outputs/cleaned_reviews.csv
+>>>>>>> 52bfbe2db94ae57c8718915d3c36f851beac230e
+
+**/creditcard.csv
+
+**/creditcard.csv

@@ -212,3 +212,58 @@ GitHub: \[MitaliRag](https://github.com/MitaliRag)
 
 \*Created as part of my OASIS INFOBYTE Data Analytics Internship projects.\*
 
+
+
+# OASIS INFOBYTE Data Analytics Internship — Level 2
+
+This repository contains my Level 2 projects completed as part of the OASIS INFOBYTE Data Analytics Internship.
+
+## Projects
+
+### 1. House Price Prediction
+- Predict house prices using machine learning.
+- Analyze housing data and identify important features.
+- **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+
+### 2. Wine Quality Prediction
+- Analyze wine characteristics and predict wine quality.
+- Apply machine learning classification techniques.
+- **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+
+### 3. Fraud Detection
+- Analyze transaction data to identify potentially fraudulent transactions.
+- Evaluate classification models using suitable performance metrics.
+- **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+
+### 4. Android App Market Analysis
+- Analyze Google Play Store applications.
+- Explore app ratings, categories, installs, and free-versus-paid applications.
+- **Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn.
+
+## Repository Structure
+
+Each project folder contains its Python code, README, requirements, datasets where included, and analysis outputs or visualizations.
+
+## How to Run
+
+1. Open the required project folder.
+2. Install its dependencies using:
+
+   `pip install -r requirements.txt`
+
+3. Run the corresponding Python script.
+
+## Internship
+
+**Organization:** OASIS INFOBYTE  
+**Program:** Data Analytics Internship  
+**Level:** Level 2
+
+## Author
+
+Mitali Raghuwanshi
+
+GitHub: [MitaliRag](https://github.com/MitaliRag)
+
+
+
